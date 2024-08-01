@@ -1,7 +1,7 @@
 # EXP-5
 ## Aim
 
-- To implement and study C++ Dcision makind statements.
+- To implement and study C++ Dcision making statements.
 
 ## Software required-
 
