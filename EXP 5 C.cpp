@@ -1,7 +1,7 @@
 //RIDDHI LOKHANDE 
 //ENTC B2
 //23070123107
-//EXP 5 CODE 2
+//EXP 5 C
 #include <iostream>
 using namespace std;
 int main() {
