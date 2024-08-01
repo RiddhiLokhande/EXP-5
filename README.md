@@ -7,6 +7,7 @@
 
 You need to have a C++ compiler installed on your system. Common options include:
 
+
 - [Microsoft Visual C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 ## Theory
@@ -28,6 +29,7 @@ The switch statement allows you to select one of many code blocks to execute.
  Practice creating nested conditions.
  5. Nested if statements:
  nested if statement is simply an if statement inside another if statement. This allows for more complex decision-making logic.
+
 ![image](https://github.com/user-attachments/assets/edd01ed0-ed7e-4d9b-9750-c7908653f404)
 
 ## CODE 1 IF STATEMENT
